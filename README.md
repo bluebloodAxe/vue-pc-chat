@@ -96,6 +96,12 @@ npm run package
 1. ```yarn install --ignore-engines```
 2. ```yarn run package```
 
+真实运行方式：
+```yarn install
+npm install
+npm run dev
+yarn dev```
+
 ## GitHub 在线打包
 
 1. fork 本仓库

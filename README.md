@@ -100,7 +100,8 @@ npm run package
 ```yarn install
 npm install
 npm run dev
-yarn dev```
+yarn dev
+```
 
 ## GitHub 在线打包
 
